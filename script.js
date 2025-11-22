@@ -21,7 +21,7 @@ const meteorImg = new Image(); meteorImg.src = 'images/meteor.png';
 const jumpSound = new Audio('sounds/jump.wav');
 const shootSound = new Audio('sounds/laserShoot.wav');
 const explosionSound = new Audio('sounds/explosion.wav');
-const hitSound = new Audio('sounds/hithurt.wav');
+const hitSound = new Audio('sounds/hitHurt.wav');
 const fishSound = new Audio('sounds/meow.mp3');
 const bgMusic = new Audio('sounds/music.mp3');
 const powerupSound = new Audio('sounds/rampage.mp3'); 
