@@ -24,8 +24,8 @@ const explosionSound = new Audio('sounds/explosion.wav');
 const hitSound = new Audio('sounds/hithurt.wav');
 const fishSound = new Audio('sounds/meow.mp3');
 const bgMusic = new Audio('sounds/music.mp3');
-const powerupSound = new Audio('sounds/rampage.wav'); 
-const gameOverSound = new Audio('sounds/gameover.wav');
+const powerupSound = new Audio('sounds/rampage.mp3'); 
+const gameOverSound = new Audio('sounds/gameover.mp3');
 
 bgMusic.loop = true; 
 bgMusic.volume = 0.4; 
